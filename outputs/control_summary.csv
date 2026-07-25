@@ -1,0 +1,10 @@
+exception_type,risk_level,exceptions,value_at_risk_eur
+Amount mismatch,Medium,6,803.63
+Duplicate bank record,Medium,1,336.13
+Missing bank settlement,High,5,1954.8500000000001
+Missing ledger posting,Medium,3,1125.3600000000001
+Missing regulatory classification,High,1,1282.57
+Missing regulatory classification,Low,3,807.6700000000001
+Settlement delay,Medium,3,957.26
+Unusual transaction pattern,Low,12,9874.34
+Unusual transaction pattern,Medium,18,26315.19
