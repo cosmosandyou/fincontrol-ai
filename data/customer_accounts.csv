@@ -1,0 +1,121 @@
+customer_id,customer_segment,kyc_status,country
+C-1001,Retail,Complete,Germany
+C-1002,Retail,Complete,France
+C-1003,Retail,Complete,Germany
+C-1004,SME,Complete,Germany
+C-1005,Retail,Complete,France
+C-1006,Enterprise,Complete,United Kingdom
+C-1007,Enterprise,Complete,France
+C-1008,Retail,Complete,Germany
+C-1009,Retail,Complete,France
+C-1010,Retail,Complete,United Kingdom
+C-1011,SME,Complete,Germany
+C-1012,SME,Complete,France
+C-1013,Retail,Complete,Germany
+C-1014,Enterprise,Complete,Germany
+C-1015,Enterprise,Complete,Ireland
+C-1016,Enterprise,Complete,Germany
+C-1017,Enterprise,Complete,Ireland
+C-1018,Retail,Complete,Germany
+C-1019,Enterprise,Complete,United Kingdom
+C-1020,SME,Complete,France
+C-1021,Retail,Complete,France
+C-1022,Enterprise,Complete,Ireland
+C-1023,SME,Complete,Ireland
+C-1024,Enterprise,Complete,France
+C-1025,Retail,Complete,France
+C-1026,Enterprise,Complete,Ireland
+C-1027,Retail,Complete,France
+C-1028,SME,Complete,France
+C-1029,Enterprise,Complete,France
+C-1030,Enterprise,Complete,France
+C-1031,SME,Pending,United Kingdom
+C-1032,Enterprise,Complete,United Kingdom
+C-1033,SME,Complete,Germany
+C-1034,Retail,Complete,Ireland
+C-1035,Enterprise,Complete,Ireland
+C-1036,Retail,Complete,United Kingdom
+C-1037,Retail,Complete,Germany
+C-1038,Retail,Complete,Ireland
+C-1039,SME,Complete,United Kingdom
+C-1040,Retail,Complete,France
+C-1041,SME,Complete,France
+C-1042,Enterprise,Complete,Germany
+C-1043,Retail,Complete,United Kingdom
+C-1044,Enterprise,Complete,Ireland
+C-1045,SME,Complete,France
+C-1046,Enterprise,Complete,Ireland
+C-1047,SME,Complete,Ireland
+C-1048,Enterprise,Complete,France
+C-1049,Enterprise,Complete,United Kingdom
+C-1050,Enterprise,Complete,United Kingdom
+C-1051,Retail,Pending,France
+C-1052,Enterprise,Complete,Ireland
+C-1053,Enterprise,Pending,Ireland
+C-1054,SME,Complete,Ireland
+C-1055,Enterprise,Complete,France
+C-1056,SME,Complete,Germany
+C-1057,SME,Complete,France
+C-1058,Retail,Complete,United Kingdom
+C-1059,Enterprise,Complete,United Kingdom
+C-1060,Retail,Complete,United Kingdom
+C-1061,SME,Complete,Germany
+C-1062,SME,Complete,France
+C-1063,Retail,Complete,France
+C-1064,Enterprise,Complete,Ireland
+C-1065,Enterprise,Complete,United Kingdom
+C-1066,Retail,Complete,United Kingdom
+C-1067,SME,Complete,Ireland
+C-1068,SME,Complete,United Kingdom
+C-1069,Enterprise,Complete,Germany
+C-1070,Retail,Complete,United Kingdom
+C-1071,Retail,Complete,Ireland
+C-1072,Retail,Complete,United Kingdom
+C-1073,Retail,Complete,United Kingdom
+C-1074,Retail,Complete,Germany
+C-1075,Retail,Complete,United Kingdom
+C-1076,SME,Complete,Ireland
+C-1077,Retail,Pending,Germany
+C-1078,SME,Complete,Germany
+C-1079,Retail,Complete,France
+C-1080,Enterprise,Complete,France
+C-1081,Retail,Complete,Ireland
+C-1082,Enterprise,Complete,France
+C-1083,Enterprise,Complete,Ireland
+C-1084,Enterprise,Complete,Ireland
+C-1085,Retail,Complete,United Kingdom
+C-1086,Enterprise,Complete,Ireland
+C-1087,Enterprise,Complete,Ireland
+C-1088,SME,Complete,France
+C-1089,SME,Complete,Ireland
+C-1090,Retail,Complete,United Kingdom
+C-1091,SME,Complete,United Kingdom
+C-1092,Enterprise,Complete,United Kingdom
+C-1093,Enterprise,Complete,France
+C-1094,Retail,Complete,France
+C-1095,Retail,Complete,Ireland
+C-1096,SME,Complete,Ireland
+C-1097,SME,Complete,United Kingdom
+C-1098,SME,Complete,France
+C-1099,Retail,Pending,Ireland
+C-1100,Retail,Complete,Ireland
+C-1101,Retail,Complete,Ireland
+C-1102,Retail,Complete,France
+C-1103,Retail,Complete,Ireland
+C-1104,Enterprise,Complete,Germany
+C-1105,Retail,Complete,Ireland
+C-1106,Enterprise,Complete,Germany
+C-1107,SME,Complete,France
+C-1108,Enterprise,Complete,United Kingdom
+C-1109,SME,Complete,United Kingdom
+C-1110,SME,Complete,France
+C-1111,Enterprise,Complete,Germany
+C-1112,Enterprise,Complete,Germany
+C-1113,Enterprise,Complete,United Kingdom
+C-1114,Enterprise,Complete,Germany
+C-1115,SME,Complete,France
+C-1116,Retail,Complete,Germany
+C-1117,Enterprise,Complete,Ireland
+C-1118,Enterprise,Complete,Germany
+C-1119,SME,Complete,France
+C-1120,SME,Complete,United Kingdom

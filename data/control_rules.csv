@@ -1,0 +1,6 @@
+rule_id,rule_name,severity,description
+R-01,Missing bank settlement,High,Bank record absent after T+2
+R-02,Amount mismatch,High,Bank or ledger amount differs by more than EUR 0.01
+R-03,Settlement delay,Medium,Settlement occurs later than T+2
+R-04,Missing regulatory classification,Medium,Classification is required
+R-05,Duplicate bank record,High,More than one bank record for transaction
